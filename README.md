@@ -13,4 +13,4 @@ Here's what it contains:
 * HW09: Image skeletonization
 * HW10: LBP, Compactness, Eccentricity, etc
 * HW11: Classification on cifar10, Transfer learning with ResNet50
-* HW12 (Bonus): IOT calculation of prpposals, Augmentation Techniques, Unet Model, Average Precision Calculation
+* HW12 (Bonus): Extracting proposals, IOT calculation of prpposals, Augmentation Techniques, Unet Model, Average Precision Calculation
